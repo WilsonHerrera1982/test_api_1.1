@@ -1,0 +1,6 @@
+BASE DE DATOS
+Postgres 15 
+base: test_api
+Puerto: 5433
+userName postgres
+password postgres
